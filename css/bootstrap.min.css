@@ -3913,10 +3913,10 @@ fieldset:disabled .btn {
 .navbar-light .navbar-nav .nav-link.disabled {
   color: rgba(0, 0, 0, 0.3);
 }
-.navbar-light .navbar-nav .show > .nav-link,
+/* .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link.active {
   color: rgba(0, 0, 0, 0.9);
-}
+} */
 .navbar-light .navbar-toggler {
   color: #9c4822;
   border-color: rgba(0, 0, 0, 0.1);
