@@ -155,6 +155,10 @@ img {
   z-index: 1;
 }
 
+.testimonial_img{
+  border-radius: 50% !important;
+}
+
 @media (max-width: 576px) {
   .carousel-caption h5 {
     font-size: 14px;
